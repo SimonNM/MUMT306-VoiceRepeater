@@ -2,7 +2,7 @@
 The Voice Repeater project is a simple program detecting voice (sound) from an audioinput to the Daisy Patch Submodule and playing back the detected sound to the user.
 This is a final Project for the course MUMT 306 Music and Audio Computing 1 at McGill University.
 
-Please refer to the Wiki for the project report (scope, research, results, etc.).
+Please refer to the [Wiki](https://github.com/SimonNM/MUMT306-VoiceRepeater/wiki/Voice-Repeater-on-the-Daisy-Patch-Submodule) for the project report (scope, research, results, etc.).
 
 ## Getting the Source
 
