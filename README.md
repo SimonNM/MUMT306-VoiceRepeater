@@ -71,3 +71,13 @@ git submodule update --remote
 Alternatively, you can simply run git commands from within the submodule and they will be treated as if you were in that repository instead of Daisy_Examples
 
 Whenenever there are changes to the libraries (whether from pulling from git or manually editing the libraries) they will need to be rebuilt. This can be done by either running `./build_libs.sh` or entering the directory of the library with changes and running `make`.
+
+## Controls
+
+| Pin Name | Pin Location | Function | Comment |
+| --- | --- | --- | --- |
+| CV_1 | C5 | Output Level | Connect a potentiometer here. |
+| B7 | B7 | Playback Toggle |  Connect a tactile switch here. Press to toggle recording, hold to clear. |
+| OUT_R | B1 | Audio Out R | Connect a jack here. |
+| OUT_L | B2 | Audio Out L | Connect a jack here. |
+| IN_L | B4 | Audio In L | Connect a jack here. |
